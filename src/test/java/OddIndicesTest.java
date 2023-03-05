@@ -38,7 +38,6 @@ public class OddIndicesTest {
 
 
     //Negative
-
     @Test
     public void testArrayOddIndices_Null() {
         int[] array = null;
